@@ -1,0 +1,79 @@
+SEO Keyword Strategy
+  Page Title 
+    The page title is in the heading of the code.
+    The first marketing message users will see.
+    <head>
+    <title> HCFU </title>
+    </head>
+  
+  The code appears for users in search engines as follows:
+  Page Title
+    blue and underlined
+    65 character limit
+  URL
+    green
+  Description
+    black
+  Sitelinks 
+    blue
+    
+   Formats of Page Titles:
+    Seperator (65 characters, 2nd sentence 70 characters)
+    Headline (2 - 3 words)
+    List
+    Short sentence format
+    Keyword-dense (keyword, keyword, keyword, keyword)
+    Keyword-order
+    No Keyword - if you have a highly relevant domain
+  
+  Idea is to rank for a specific set of words
+  
+  Page Structure
+    Navigation
+      navigational links
+    Headings - Like Headlines
+    HTML
+    <h1>
+    <h2>
+    <h3>
+   Meta-Description
+   Content Block
+   Links - We are writing about content and linking to appropriate detail
+   Multimedia - beyond standard txt
+   Images
+   Alt attributes
+   Footer - Housekeeping Links
+      treat links differently
+      
+ 
+ CODE - Page Structures
+ Pagetitle
+ HomePage <h1 container, 1 per page>
+ Navigation <link to each page, names being used in the navigation>
+ Paragraph of content <work in a keyword naturally>
+ Video <details about the movie>
+ 
+ Search engines need HTML markup as a set of instructions to build the desired page
+ 
+ Scan-ability
+  Non linear
+  Eyes sweep a page for fixation points - to see if the type of information is correct
+  Use keywords as fixation points in content
+  
+    Headlines
+    Sub-headings
+    Bulleted Lists
+    Bold
+    Hyperlinks
+    Subscribe buttons (action graphics)
+    
+  Search engines look at the site like users look at a newspaper.
+  CONVERGENCE
+  optimalworkshop.com
+  diplay url versus destination url for ads
+  Quality Score for relevancy
+   
+  
+ 
+ 
+ 
